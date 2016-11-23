@@ -1,0 +1,13 @@
+KLASA 1A
+Jan Kowalski 5,4,4,5,3 1,1,1,1,0,1,0,1,0,1
+Krzysiu Nowak 4,5,4,4,5 1,0,1,1,1,1,0,1,1,0
+Marek Kornowilenko 3,4,2,4,3 1,0,0,0,1,1,0,0,0,1
+Abdul Mahomet 2,2,1,1,1 1,0,0,0,0,0,1,0,0,0
+Kriszna Wuzemo 1,2,3,2,4 1,0,1,0,1,0,1,0,1,0
+KLASA 1B
+Piotr Abraham 5,4,3,4,1 1,1,1,1,0,1,0,1,0,1
+Marcel Szymanowski 5,5,5,5,5 1,0,1,1,1,1,0,1,1,0
+Max Kolonko 5,5,1,5,5 1,0,0,0,1,1,0,0,0,1
+Abedi Mosul 2,2,1,3,5 1,0,1,1,1,0,1,0,0,0
+Tarzan Kerczak 1,1,1,1,1 0,0,0,0,0,0,0,0,0,0
+KONIEC
